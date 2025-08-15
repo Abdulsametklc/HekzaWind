@@ -1,0 +1,17 @@
+C:\Users\Abdulsamet\source\repos\Hekzawind_Prototip\Hekzawind_Prototip\obj\Debug\net8.0-windows\Hekzawind_Prototip.Form1.resources
+C:\Users\Abdulsamet\source\repos\Hekzawind_Prototip\Hekzawind_Prototip\obj\Debug\net8.0-windows\Hekzawind_Prototip.csproj.GenerateResource.cache
+C:\Users\Abdulsamet\source\repos\Hekzawind_Prototip\Hekzawind_Prototip\obj\Debug\net8.0-windows\Hekzawind_Prototip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdulsamet\source\repos\Hekzawind_Prototip\Hekzawind_Prototip\obj\Debug\net8.0-windows\Hekzawind_Prototip.AssemblyInfoInputs.cache
+C:\Users\Abdulsamet\source\repos\Hekzawind_Prototip\Hekzawind_Prototip\obj\Debug\net8.0-windows\Hekzawind_Prototip.AssemblyInfo.cs
+C:\Users\Abdulsamet\source\repos\Hekzawind_Prototip\Hekzawind_Prototip\obj\Debug\net8.0-windows\Hekzawind_Prototip.csproj.CoreCompileInputs.cache
+C:\Users\Abdulsamet\source\repos\Hekzawind_Prototip\Hekzawind_Prototip\bin\Debug\net8.0-windows\Hekzawind_Prototip.exe
+C:\Users\Abdulsamet\source\repos\Hekzawind_Prototip\Hekzawind_Prototip\bin\Debug\net8.0-windows\Hekzawind_Prototip.deps.json
+C:\Users\Abdulsamet\source\repos\Hekzawind_Prototip\Hekzawind_Prototip\bin\Debug\net8.0-windows\Hekzawind_Prototip.runtimeconfig.json
+C:\Users\Abdulsamet\source\repos\Hekzawind_Prototip\Hekzawind_Prototip\bin\Debug\net8.0-windows\Hekzawind_Prototip.dll
+C:\Users\Abdulsamet\source\repos\Hekzawind_Prototip\Hekzawind_Prototip\bin\Debug\net8.0-windows\Hekzawind_Prototip.pdb
+C:\Users\Abdulsamet\source\repos\Hekzawind_Prototip\Hekzawind_Prototip\obj\Debug\net8.0-windows\Hekzawind_Prototip.WindingForm.resources
+C:\Users\Abdulsamet\source\repos\Hekzawind_Prototip\Hekzawind_Prototip\obj\Debug\net8.0-windows\Hekzawind_Prototip.dll
+C:\Users\Abdulsamet\source\repos\Hekzawind_Prototip\Hekzawind_Prototip\obj\Debug\net8.0-windows\refint\Hekzawind_Prototip.dll
+C:\Users\Abdulsamet\source\repos\Hekzawind_Prototip\Hekzawind_Prototip\obj\Debug\net8.0-windows\Hekzawind_Prototip.pdb
+C:\Users\Abdulsamet\source\repos\Hekzawind_Prototip\Hekzawind_Prototip\obj\Debug\net8.0-windows\Hekzawind_Prototip.genruntimeconfig.cache
+C:\Users\Abdulsamet\source\repos\Hekzawind_Prototip\Hekzawind_Prototip\obj\Debug\net8.0-windows\ref\Hekzawind_Prototip.dll
